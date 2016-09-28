@@ -989,6 +989,7 @@ on MNIST digits[DEEP LEARNING]
 * [bmrm](http://cran.r-project.org/web/packages/bmrm/index.html) - bmrm: Bundle Methods for Regularized Risk Minimization Package
 * [Boruta](http://cran.r-project.org/web/packages/Boruta/index.html) - Boruta: A wrapper algorithm for all-relevant feature selection
 * [bst](http://cran.r-project.org/web/packages/bst/index.html) - bst: Gradient Boosting
+* [bsts](https://cran.r-project.org/web/packages/bsts/index.html) - BSTS: Bayesian Structural Time Series (Time Series forecasting)
 * [C50](http://cran.r-project.org/web/packages/C50/index.html) - C50: C5.0 Decision Trees and Rule-Based Models
 * [caret](http://caret.r-forge.r-project.org/) - Classification and Regression Training: Unified interface to ~150 ML algorithms in R.
 * [caretEnsemble](http://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models.
